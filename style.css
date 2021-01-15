@@ -1,0 +1,15 @@
+.fa{
+    float: right;
+   
+}
+
+.true{
+    background-color: white;
+    float: right;
+    cursor: pointer;
+}
+.false{
+    background-color: yellow;
+    float: right;
+    cursor: pointer;
+}
